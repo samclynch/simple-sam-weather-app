@@ -1,5 +1,5 @@
 {
-  "homepage" : "http://{samlclynch}.github.io/{simple-sam-weather-app}",
+  "homepage" : "http://samclynch.github.io/simple-sam-weather-app",
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
